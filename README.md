@@ -48,15 +48,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Ranking | Prioridade |     User Story                                                                                                                                        | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Altíssima  | Como Analista, solicito a coleta dos dados de importação e exportação dos estados brasileiros e munícipios do estado de São Paulo através do Comex Stat | 5          | 1      |
-| 2    | Alta       |  Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Collab. | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 10   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+|1|Altíssima|Como Analista, solicito a coleta dos dados de importação e exportação dos estados brasileiros e munícipios do estado de São Paulo através do Comex Stat. |4|1|
+|2|Altíssima|Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Collab. |6|2|
+|3|Alta|Como gerente de políticas públicas, quero um dashboard feito pelo Power BI, que contenha os dados de exportações e importações dos estados brasileiros e munícipios de São Paulo dos anos 2023 a 2025. |5|2|
+|4|Alta|Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT. |...|...|
+|5|Média| ... | ...        | ...    |
+|6|Média| ... | ...        | ...    |
+|7|Média| ... | ...        | ...    |
+|8|Baixa| ... | ...        | ...    |
+|9|Baixa| ... | ...        | ...    |
+|10|Baixa| ... |2|3|
 
 
 
