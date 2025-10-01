@@ -36,6 +36,9 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 
 ---
 ## 📊 Critérios de Aceitação
+- Visualização dos dados e possibilidade comparativa quanto aos estados brasileiros e munícipios de São Paulo;
+- O banco de dados deve ser limpo e conter informações atualizadas e confiáveis;
+- Análise de feedback e da taxa de uso do produto.
 
 ---
 ## 📈 Métricas de Validação
