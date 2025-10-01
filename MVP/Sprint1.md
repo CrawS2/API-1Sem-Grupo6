@@ -31,8 +31,13 @@ Desenvolver uma plataforma de Business Intelligence que permita acompanhar os re
 
 ---
 ## 📊 Critérios de Aceitação
+
 ---
 ## 📈 Métricas de Validação
+- Feedback de gestores, investidores e avaliadores da plataforma e do projeto;
+- Taxa de uso da plataforma por parte dos usuários e de empresas;
+- Avaliação de outros usuários inexperientes da área, mas que estão interessados no assunto e que preecisem de maior acessibilidade;
+- Análise do código e da base de dados limpa e em como ela é organizada.
 ---
 ## 🚀 Próximos Passos
 ---
