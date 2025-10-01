@@ -25,9 +25,9 @@ Desenvolver uma plataforma de Business Intelligence que permita acompanhar os re
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01 ||Concluído|
-| 02 ||Planejado|
-| 03 ||Planejado|
+| 01 |Apresentação inicial do projeto, com foco no planejamento futuro e organização dos documentos através do Github e do Jira Software, criação de Backlogs, modelos de Dashboard, coleta de dados do ComexStat e inicialização da limpeza através do Python|Concluído|
+| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Planejado|
+| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Planejado|
 
 ---
 ## 📊 Critérios de Aceitação
