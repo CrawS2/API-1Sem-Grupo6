@@ -2,9 +2,9 @@
 
 ## 🎯 Objetivo do MVP
 Desenvolver uma plataforma de Business Intelligence que permita acompanhar os resultados de exportação e importação do Brasil, com foco nos municípios do Estado de São Paulo.
-- Qual problema resolve? R: A ausência de uma maneira acessível e simples de localizar esses dados para fins de estudo e gerenciamento;
-- Qual hipótese será validada? R: Uma plataforma de BI, que utiliza do Power BI para criar uma interface simplificada, utilizando o banco de dados do ComexStat, que será limpa utilizando a linguagem Python em junção a biblioteca Pandas;
-- Qual valor será entregue ao usuário final? R: Com essa ferramenta, será possível acessar facilmente dados de grande importância para as empresas e seus gestores utilizarem como referência para planejamentos futuros.
+- Qual problema resolve? **R: A ausência de uma maneira acessível e simples de localizar esses dados para fins de estudo e gerenciamento;**
+- Qual hipótese será validada? **R: Uma plataforma de BI, que utiliza do Power BI para criar uma interface simplificada, utilizando o banco de dados do ComexStat, que será limpa utilizando a linguagem Python em junção a biblioteca Pandas;**
+- Qual valor será entregue ao usuário final? **R: Com essa ferramenta, será possível acessar facilmente dados de grande importância para as empresas e seus gestores utilizarem como referência para planejamentos futuros.**
 ---
 ## 📝 Descrição da Solução
 
