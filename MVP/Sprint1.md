@@ -34,7 +34,7 @@ Desenvolver uma plataforma de Business Intelligence que permita acompanhar os re
 ---
 ## 📈 Métricas de Validação
 ---
-## 🚀 Próximos Passoso
+## 🚀 Próximos Passos
 ---
 ## 📂 Anexos / Evidências
 - Apresentação em Slides da API 
