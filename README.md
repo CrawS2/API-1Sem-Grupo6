@@ -49,7 +49,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Ranking | Prioridade |     User Story                                                                                                                                        | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Altíssima  | Como Analista, solicito a coleta dos dados de importação e exportação dos estados brasileiros e munícipios do estado de São Paulo através do Comex Stat | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
+| 2    | Alta       |  Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Collab. | 8          | 1      |
 | 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
