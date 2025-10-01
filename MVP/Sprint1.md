@@ -7,6 +7,11 @@ Desenvolver uma plataforma de Business Intelligence que permita acompanhar os re
 - Qual valor será entregue ao usuário final? **R: Com essa ferramenta, será possível acessar facilmente dados de grande importância para as empresas e seus gestores utilizarem como referência para planejamentos futuros.**
 ---
 ## 📝 Descrição da Solução
+Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de dados relacionados ao comércio exterior brasileiro, que é integrada a uma base de dados do ComexStat, limpa através da utilização da linguagem de programação Python, e que será visualizável através de um Dashboard feito no Power BI. Esse dashboard contém filtros relacionados a modais, munícipios de São Paulo e estados do Brasil.
+**Pontos Chave:**
+- Base de Dados do ComexStat, limpa através da linguagem Python e da biblioteca Pandas;
+- Interface de Dashboard contendo informações relacionadas ao comércio exterior brasileiro (Exportação e Importação) no período de 2023 a 2025;
+- Utilização de filtros para munícipios do estado de São Paulo, estados do Brasil, modais utilziados, entre outros, para fins comparativos;
 
 ---
 ## 👥 Personas / Usuários-Alvo
@@ -40,6 +45,9 @@ Desenvolver uma plataforma de Business Intelligence que permita acompanhar os re
 - Análise do código e da base de dados limpa e em como ela é organizada.
 ---
 ## 🚀 Próximos Passos
+- Implementação de medidas planejadas previamente;
+- Análise do feedback recebido quanto ao projeto e a plataforma;
+- Criação de relatórios, para melhor acompanhamento do processo.
 ---
 ## 📂 Anexos / Evidências
 - Apresentação em Slides da API 
