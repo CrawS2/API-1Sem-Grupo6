@@ -39,7 +39,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
+* Microsoft Word
 * Python (Colab)
+* MySql Workbench
 
 
 # Product Backlog
