@@ -67,7 +67,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 02/10/2025 | a fazer  | [MVP](https://github.com/CrawS2/API-1Sem-Grupo6/blob/main/MVP/Sprint1.md)  |
-| 02                | xx/xx/2025 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | xx/xx/2025 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | xx/xx/2025 | a fazer  | [MVP](#)  |
+| 02                | 23/10/2025 | a fazer  | [MVP]()  |
+| 03                | 13/11/2025 | a fazer  | [MVP]()  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
