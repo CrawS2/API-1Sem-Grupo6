@@ -1,4 +1,4 @@
-# 📌 Sprint 1 - [Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP ]
+# 📌 Sprint 3 - [Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP ]
 
 ## 🎯 Objetivo do MVP
 Desenvolver uma plataforma de Business Intelligence que permita acompanhar os resultados de exportação e importação do Brasil, com foco nos municípios do Estado de São Paulo.
@@ -21,18 +21,16 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 ## 🔑 User Stories (Backlog do MVP)
 | ID | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 |Como gestor/analista, quero coletar dados das exportações e importações dos estados brasileiros e dos municípios do estado de São Paulo.|Alta|4|
-| US2 |Como gestor/cliente, quero que todos as Planilhas, Dashboards e Relatórios estejam disponíveis publicamente e de forma acessível na plataforma Github|Média|3|
-| US3 |Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|Baixa|1|
-| US4 |Como gerente de políticas públicas/cliente, gostaria de ter um detalhamento quanto ao futuro do projeto e o que esperar dos seus resultados.|Baixa|1|
+| US1 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
+| US2 |Como gerente de políticas públicas, gostaria que os resultados do projeto fossem acessíveis ao público, a fim de estudos e utilização do mesmo para desenvolvimento de projetos futuros.|Baixa|1|
 
 ---
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01 |Apresentação inicial do projeto, com foco no planejamento futuro e organização dos documentos através do Github e do Jira Software, criação de Backlogs, modelos de Dashboard, coleta de dados do ComexStat e inicialização da limpeza através do Python|Concluído|
-| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Planejado|
-| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Planejado|
+| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Concluído|
+| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Em andamento|
 
 ---
 ## 📊 Critérios de Aceitação
@@ -53,7 +51,4 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - Criação de relatórios, para melhor acompanhamento do processo.
 ---
 ## 📂 Anexos / Evidências
-- Apresentação em Slides da API 
-- Relatório do 1° Sprint
-- Protótipos do Dashboard (Power BI).
 - Repositório GitHub: API-1Sem-Grupo6
