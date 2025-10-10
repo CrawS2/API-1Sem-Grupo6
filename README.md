@@ -56,8 +56,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |6|Média|Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por modais, estados e munícipios.|3|2|
 |7|Média|Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|3|2|
 |8|Baixa|Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|1|1|
-|9|Baixa|Como gerente de políticas públicas/cliente, gostaria de ter um detalhamento quanto ao futuro do projeto e o que esperar dos seus resultados.|1|1|
-|10|Baixa|Como gerente de políticas públicas, gostaria que os resultados do projeto fossem acessíveis ao público, a fim de estudos e utilização do mesmo para desenvolvimento de projetos futuros.|1|3|
+|9|Baixa|Como gerente de políticas públicas, gostaria que os resultados do projeto fossem acessíveis ao público, a fim de estudos e utilização do mesmo para desenvolvimento de projetos futuros.|1|3|
 
 
 
