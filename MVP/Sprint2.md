@@ -21,17 +21,17 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 ## 🔑 User Stories (Backlog do MVP)
 | ID | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 |Como gestor/analista, quero coletar dados das exportações e importações dos estados brasileiros e dos municípios do estado de São Paulo.|Alta|4|
-| US2 |Como gestor/cliente, quero que todos as Planilhas, Dashboards e Relatórios estejam disponíveis publicamente e de forma acessível na plataforma Github|Média|3|
-| US3 |Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|Baixa|1|
-| US4 |Como gerente de políticas públicas/cliente, gostaria de ter um detalhamento quanto ao futuro do projeto e o que esperar dos seus resultados.|Baixa|1|
+| US1 |Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Collab.|Altíssima|5|
+| US2 |Como gerente de políticas públicas, quero um dashboard feito pelo Power BI, que contenha os dados de exportações e importações dos estados brasileiros e munícipios de São Paulo dos anos 2023 a 2025.|Alta|4|
+| US3 |Como analista/cliente, quero que o Dashboard contenha filtros relacionados à: Modais de transporte, estados e municípios.|Média|3|
+| US4 |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|Média|3|
 
 ---
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01 |Apresentação inicial do projeto, com foco no planejamento futuro e organização dos documentos através do Github e do Jira Software, criação de Backlogs, modelos de Dashboard, coleta de dados do ComexStat e inicialização da limpeza através do Python|Concluído|
-| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Planejado|
+| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Em andamento|
 | 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Planejado|
 
 ---
@@ -53,7 +53,5 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - Criação de relatórios, para melhor acompanhamento do processo.
 ---
 ## 📂 Anexos / Evidências
-- Apresentação em Slides da API 
-- Relatório do 1° Sprint
-- Protótipos do Dashboard (Power BI).
+
 - Repositório GitHub: API-1Sem-Grupo6
