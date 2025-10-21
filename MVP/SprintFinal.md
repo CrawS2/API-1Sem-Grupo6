@@ -1,4 +1,4 @@
-# 📌 Sprint 1 - [Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP ]
+# 📌 Apresentação para a Feira de Soluções - [Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP ]
 
 ## 🎯 Objetivo do MVP
 Desenvolver uma plataforma de Business Intelligence que permita acompanhar os resultados de exportação e importação do Brasil, com foco nos municípios do Estado de São Paulo.
@@ -30,30 +30,31 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01 |Apresentação inicial do projeto, com foco no planejamento futuro e organização dos documentos através do Github e do Jira Software, criação de Backlogs, modelos de Dashboard, coleta de dados do ComexStat e inicialização da limpeza através do Python|Concluído|
-| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Planejado|
-| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Planejado|
+| 01 |Apresentação inicial do projeto, criação do Backlog, coleta de dados do ComexStat, tratados através do Python e criação de dashboards.|Concluído|
+| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Concluído|
+| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Concluído|
 
 ---
-## 📊 Critérios de Aceitação
+## 📊 
 - Visualização dos dados e possibilidade comparativa quanto aos estados brasileiros e munícipios de São Paulo;
 - O banco de dados deve ser limpo e conter informações atualizadas e confiáveis;
 - Análise de feedback e da taxa de uso do produto.
 
 ---
-## 📈 Métricas de Validação
+## 📈 Validation Methods:
 - Feedback de gestores, investidores e avaliadores da plataforma e do projeto;
 - Taxa de uso da plataforma por parte dos usuários e de empresas;
 - Avaliação de outros usuários inexperientes da área, mas que estão interessados no assunto e que preecisem de maior acessibilidade;
 - Análise do código e da base de dados limpa e em como ela é organizada.
 ---
-## 🚀 Próximos Passos
-- Implementação de medidas planejadas previamente;
+## 🚀 Next Steps:
 - Análise do feedback recebido quanto ao projeto e a plataforma;
-- Criação de relatórios, para melhor acompanhamento do processo.
+- Implementação de ferramentas e melhorias de acordo com o feedback dos clientes
+  
 ---
 ## 📂 Anexos / Evidências
-- Apresentação em Slides da API 
-- Relatório do 1° Sprint
-- Protótipos do Dashboard (Power BI).
+- Conteúdo do Projeto:
+- Dados Tratados:
+- Conteúdo do Jira:
+- Apresentação Final:
 - Repositório GitHub: API-1Sem-Grupo6
