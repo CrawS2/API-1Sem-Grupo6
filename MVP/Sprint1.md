@@ -53,7 +53,4 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - Criação de relatórios, para melhor acompanhamento do processo.
 ---
 ## 📂 Anexos / Evidências
-- Apresentação em Slides da API 
-- Relatório do 1° Sprint
-- Protótipos do Dashboard (Power BI).
 - Repositório GitHub: API-1Sem-Grupo6
