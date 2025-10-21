@@ -51,4 +51,7 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - Criação de relatórios, para melhor acompanhamento do processo.
 ---
 ## 📂 Anexos / Evidências
+- Conteúdo do Projeto:
+- Dados Tratados:
+- Backlog do Jira: https://joaoveras2204.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiYWJhN2NhZDY4NDUxNGI4MWEyNTYxNjRmMWY2NDFmOTIiLCJwIjoiaiJ9
 - Repositório GitHub: API-1Sem-Grupo6
