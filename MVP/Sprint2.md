@@ -54,5 +54,5 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 ---
 ## 📂 Anexos / Evidências
 - Dados tratados: https://drive.google.com/drive/folders/1-wIx2rmatzvThAheKk8hBpo50Ma50x9x?usp=sharing
-- Backlog do Jira: https://joaoveras2204.atlassian.net/jira/software/projects/SCRUM/boards/1
+- Backlog do Jira: https://joaoveras2204.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiYWJhN2NhZDY4NDUxNGI4MWEyNTYxNjRmMWY2NDFmOTIiLCJwIjoiaiJ9
 - Repositório GitHub: API-1Sem-Grupo6
