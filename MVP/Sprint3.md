@@ -1,4 +1,4 @@
-# 📌 Sprint 3 - [Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP ]
+# 📌 Sprint 3 - [Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP]
 
 ## 🎯 Objetivo do MVP
 Desenvolver uma plataforma de Business Intelligence que permita acompanhar os resultados de exportação e importação do Brasil, com foco nos municípios do Estado de São Paulo.
@@ -47,12 +47,11 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - Análise do código e da base de dados limpa e em como ela é organizada.
 ---
 ## 🚀 Próximos Passos
-- Implementação de medidas planejadas previamente;
 - Análise do feedback recebido quanto ao projeto e a plataforma;
 - Criação de relatórios, para melhor acompanhamento do processo.
 ---
 ## 📂 Anexos / Evidências
-- Conteúdo do Projeto:
+- Conteúdo do Projeto: https://drive.google.com/drive/folders/19RmrfkcZrLw3tmQVxcxijFammpDPok4i?usp=sharing
 - Dados Tratados: https://drive.google.com/drive/folders/1-wIx2rmatzvThAheKk8hBpo50Ma50x9x?usp=sharing
 - Backlog do Jira: https://joaoveras2204.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiYWJhN2NhZDY4NDUxNGI4MWEyNTYxNjRmMWY2NDFmOTIiLCJwIjoiaiJ9
 - Repositório GitHub: API-1Sem-Grupo6
