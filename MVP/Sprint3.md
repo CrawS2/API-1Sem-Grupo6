@@ -51,7 +51,7 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - Criação de relatórios, para melhor acompanhamento do processo.
 ---
 ## 📂 Anexos / Evidências
-- **Conteúdo do Projeto:** [Pasta do Google Drive](https://drive.google.com/drive/folders/19RmrfkcZrLw3tmQVxcxijFammpDPok4i?usp=sharing)
-- **Dados Tratados:** [Pasta do Google Drive](https://drive.google.com/drive/folders/1-wIx2rmatzvThAheKk8hBpo50Ma50x9x?usp=sharing)
+- **Conteúdo do Projeto:** [Conteúdos do Projeto (Google Drive)](https://drive.google.com/drive/folders/19RmrfkcZrLw3tmQVxcxijFammpDPok4i?usp=sharing)
+- **Dados Tratados:** [Dados Tratados (Google Drive)](https://drive.google.com/drive/folders/1-wIx2rmatzvThAheKk8hBpo50Ma50x9x?usp=sharing)
 - **Backlog do Jira:** [Backlog do Jira](https://joaoveras2204.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiYWJhN2NhZDY4NDUxNGI4MWEyNTYxNjRmMWY2NDFmOTIiLCJwIjoiaiJ9)
 - **Repositório GitHub:** *API-1Sem-Grupo6*
