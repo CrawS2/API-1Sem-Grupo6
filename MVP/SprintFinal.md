@@ -19,12 +19,17 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - **Persona 2:** Analista/Empresa Exportadora, busca entender riscos, tarifas e oportunidades internacionais; falta de clareza sobre impactos tarifários e dificuldade em planejar rotas logísticas eficientes 
 ---
 ## 🔑 User Stories (Product Backlog)
-| ID | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 |Como gestor/analista, quero coletar dados das exportações e importações dos estados brasileiros e dos municípios do estado de São Paulo.|Alta|4|
-| US2 |Como gestor/cliente, quero que todos as Planilhas, Dashboards e Relatórios estejam disponíveis publicamente e de forma acessível na plataforma Github|Média|3|
-| US3 |Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|Baixa|1|
-| US4 |Como gerente de políticas públicas/cliente, gostaria de ter um detalhamento quanto ao futuro do projeto e o que esperar dos seus resultados.|Baixa|1|
+| Ranking | Priority  | User Story                                                                                                                                                                | Estimate | Sprint |
+| ------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ |
+| 1       | Very High | As a manager/analyst, I want to collect export and import data from Brazilian states and municipalities in the state of São Paulo.                                        | 4        | 1      |
+| 2       | Medium    | As a manager/client, I want all Spreadsheets, Dashboards, and Reports to be publicly available and easily accessible on the GitHub platform.                              | 2        | 1      |
+| 3       | Low       | As a public policy manager/client, I want the purpose of the proposed project to be detailed, including how it impacts the country’s current situation.                   | 1        | 1      |
+| 4       | Very High | As an analyst, I want this data to be read, stored, and visualized using Python programming language together with the Pandas library, done on the Google Colab platform. | 6        | 2      |
+| 5       | High      | As a public policy manager, I want a Power BI dashboard containing export and import data from Brazilian states and São Paulo municipalities for the years 2023 to 2025.  | 4        | 2      |
+| 6       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 2      |
+| 7       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
+| 8       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
+| 9       | Low       | As a public policy manager, I would like the project results to be publicly accessible for study and use in developing future projects.                                   | 1        | 3      |
 
 ---
 ## 📅 Related Sprint(s)
