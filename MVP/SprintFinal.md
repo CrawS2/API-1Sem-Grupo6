@@ -40,7 +40,7 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 | 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Done|
 
 ---
-## 📊 
+## 📊 Acceptance Criteria
 - Visualização dos dados e possibilidade comparativa quanto aos estados brasileiros e munícipios de São Paulo;
 - O banco de dados deve ser limpo e conter informações atualizadas e confiáveis;
 - Análise de feedback e da taxa de uso do produto.
