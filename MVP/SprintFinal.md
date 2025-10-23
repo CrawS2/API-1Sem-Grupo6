@@ -57,8 +57,8 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - Implementação de ferramentas e melhorias de acordo com o feedback dos clientes
   
 ---
-## 📂 Anexos / Evidências
-- Conteúdo do Projeto:
+## 📂 Archives:
+- Conteúdo do Projeto: https://drive.google.com/drive/folders/19RmrfkcZrLw3tmQVxcxijFammpDPok4i?usp=sharing
 - Dados Tratados:
 - Conteúdo do Jira:
 - Apresentação Final:
