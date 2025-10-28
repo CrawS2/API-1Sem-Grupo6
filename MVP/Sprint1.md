@@ -24,7 +24,6 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 | US1 |Como gestor/analista, quero coletar dados das exportações e importações dos estados brasileiros e dos municípios do estado de São Paulo.|Alta|4|
 | US2 |Como gestor/cliente, quero que todos as Planilhas, Dashboards e Relatórios estejam disponíveis publicamente e de forma acessível na plataforma Github|Média|3|
 | US3 |Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|Baixa|1|
-| US4 |Como gerente de políticas públicas/cliente, gostaria de ter um detalhamento quanto ao futuro do projeto e o que esperar dos seus resultados.|Baixa|1|
 
 ---
 ## 📅 Sprint(s) Relacionadas
