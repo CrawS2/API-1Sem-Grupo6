@@ -48,8 +48,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |4|Altíssima        |Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Collab.|6|2|
 |5|Alta             |Como gerente de políticas públicas, quero um dashboard feito pelo Power BI, que contenha os dados de exportações e importações dos estados brasileiros e munícipios de São Paulo dos anos 2023 a 2025.|4|2|
 |6|Média            |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por modais, estados e munícipios.|3|2|
-|7|Média            |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|3|3|
-|8|Alta             |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|4|3|
+|7|Alta             |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|4|3|
+|8|Média            |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|3|3|
 |9|Baixa            |Como gerente de políticas públicas, gostaria que os resultados do projeto fossem acessíveis ao público, a fim de estudos e utilização do mesmo para desenvolvimento de projetos futuros.|1|3|
 
 # Product Backlog (ENG)
