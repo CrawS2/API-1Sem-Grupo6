@@ -40,8 +40,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Product Backlog (PT-BR)
 
-| Ranking | Prioridade |     User Story                                                                                                                                        | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| Ranking | Prioridade | User Story | Estimativa | Sprint |
+|---------|------------|------------|------------|--------|
 |1|Altíssima        |Como gestor/analista, quero coletar dados das exportações e importações dos estados brasileiros e dos municípios do estado de São Paulo.|4|1|
 |2|Média            |Como gestor/cliente, quero que todos as Planilhas, Dashboards e Relatórios estejam disponíveis publicamente e de forma acessível na plataforma Github|2|1|
 |3|Baixa            |Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|1|1|
@@ -54,8 +54,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Product Backlog (ENG)
 
-| Ranking | Priority  | User Story                                                                                                                                                                | Estimate | Sprint |
-| ------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ |
+| Ranking | Priority  | User Story | Estimate | Sprint |
+|---------| ----------|------------|----------|--------|
 | 1       | Very High | As a manager/analyst, I want to collect export and import data from Brazilian states and municipalities in the state of São Paulo.                                        | 4        | 1      |
 | 2       | Medium    | As a manager/client, I want all Spreadsheets, Dashboards, and Reports to be publicly available and easily accessible on the GitHub platform.                              | 2        | 1      |
 | 3       | Low       | As a public policy manager/client, I want the purpose of the proposed project to be detailed, including how it impacts the country’s current situation.                   | 1        | 1      |
