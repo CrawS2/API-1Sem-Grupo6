@@ -22,16 +22,16 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 | ID | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 |Como gestor/analista, quero coletar dados das exportações e importações dos estados brasileiros e dos municípios do estado de São Paulo.|Alta|4|
-| US2 |Como gestor/cliente, quero que todos as Planilhas, Dashboards e Relatórios estejam disponíveis publicamente e de forma acessível na plataforma Github|Média|3|
+| US2 |Como gestor/cliente, quero que todos as Planilhas, Dashboards e Relatórios estejam disponíveis publicamente e de forma acessível na plataforma Github|Média|2|
 | US3 |Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|Baixa|1|
 
 ---
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01 |Apresentação inicial do projeto, com foco no planejamento futuro e organização dos documentos através do Github e do Jira Software, criação de Backlogs, modelos de Dashboard, coleta de dados do ComexStat e inicialização da limpeza através do Python|Concluído|
-| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Planejado|
-| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Planejado|
+| 01 |Apresentação inicial do projeto, criação do Backlog, coleta de dados do ComexStat, tratados através do Python e criação de dashboards.|Concluído|
+| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|A fazer|
+| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|A fazer|
 
 ---
 ## 📊 Critérios de Aceitação
@@ -52,4 +52,7 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 - Criação de relatórios, para melhor acompanhamento do processo.
 ---
 ## 📂 Anexos / Evidências
-- Repositório GitHub: API-1Sem-Grupo6
+- **Conteúdo do Projeto:** [Conteúdos do Projeto (Google Drive)](https://drive.google.com/drive/folders/19RmrfkcZrLw3tmQVxcxijFammpDPok4i?usp=sharing)
+- **Dados Tratados:** [Dados Tratados (Google Drive)](https://drive.google.com/drive/folders/1-wIx2rmatzvThAheKk8hBpo50Ma50x9x?usp=sharing)
+- **Backlog do Jira:** [Backlog do Jira](https://joaoveras2204.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiYWJhN2NhZDY4NDUxNGI4MWEyNTYxNjRmMWY2NDFmOTIiLCJwIjoiaiJ9)
+- **Repositório GitHub:** *API-1Sem-Grupo6*
