@@ -62,8 +62,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 4       | Very High | As an analyst, I want this data to be read, stored, and visualized using Python programming language together with the Pandas library, done on the Google Colab platform. | 6        | 2      |
 | 5       | High      | As a public policy manager, I want a Power BI dashboard containing export and import data from Brazilian states and São Paulo municipalities for the years 2023 to 2025.  | 4        | 2      |
 | 6       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 2      |
-| 7       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
-| 8       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
+| 7       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
+| 8       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
 | 9       | Low       | As a public policy manager, I would like the project results to be publicly accessible for study and use in developing future projects.                                   | 1        | 3      |
 
 
