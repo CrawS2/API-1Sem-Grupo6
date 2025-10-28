@@ -45,7 +45,6 @@ The dashboard includes filters related to **transport modes**, **municipalities 
 | 6       | Medium    | As a public policy manager, I request that the dashboard include filters for transport modes, states, and municipalities.                                      | 3        | 2      |
 | 7       | Medium    | As a manager, I want the presented data to be periodically updated to ensure effective monitoring and reliability.                                             | 3        | 3      |
 | 8       | High      | As a manager, I want the entire project process to be documented through a written report in Microsoft Word, following ABNT academic formatting standards.     | 4        | 3      |
-| 9       | Low       | As a public policy manager, I want the final project results to be publicly available for consultation and to support future project development.              | 1        | 3      |
 
 ---
 
