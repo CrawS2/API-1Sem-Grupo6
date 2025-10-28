@@ -11,7 +11,6 @@
 |6|Média            |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por modais, estados e munícipios.|3|2|
 |7|Alta             |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|4|3|
 |8|Média            |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|3|3|
-|9|Baixa            |Como gerente de políticas públicas, gostaria que os resultados do projeto fossem acessíveis ao público, a fim de estudos e utilização do mesmo para desenvolvimento de projetos futuros.|1|3|
 
 ## 📝 Backlog - 1° Sprint
 | ID | User Story | Prioridade | Estimativa |
@@ -32,4 +31,3 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US7 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
 | US8 |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|Média|3|
-| US9 |Como gerente de políticas públicas, gostaria que os resultados do projeto fossem acessíveis ao público, a fim de estudos e utilização do mesmo para desenvolvimento de projetos futuros.|Baixa|1|
