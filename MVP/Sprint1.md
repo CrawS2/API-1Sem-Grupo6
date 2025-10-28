@@ -29,9 +29,9 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01 |Apresentação inicial do projeto, criação do Backlog, coleta de dados do ComexStat, tratados através do Python e criação de dashboards.|Concluído|
-| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|A fazer|
-| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|A fazer|
+| 01 |Apresentação inicial do projeto, criação do Backlog, coleta de dados do ComexStat, tratados através do Python e criação de dashboards.|Em andamento|
+| 02 |Criação de um Dashboard com filtros simples, atrelamento a base de dados limpa com o Python e atualização dos dados coletados no Sprint anterior|Planejado|
+| 03 |Criação do relatório final, finalização do Dashboard e atualização final dos dados fornecidos nos últimos Sprints|Planejado|
 
 ---
 ## 📊 Critérios de Aceitação
