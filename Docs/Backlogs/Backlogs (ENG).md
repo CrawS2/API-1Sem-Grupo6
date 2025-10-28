@@ -11,7 +11,6 @@
 | 6       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 2      |
 | 7       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
 | 8       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
-| 9       | Low       | As a public policy manager, I would like the project results to be publicly accessible for study and use in developing future projects.                                   | 1        | 3      |
 
 ## 📝 Backlog - 1° Sprint
 | ID | User Story                                                                 | Prioridade | Estimativa |
@@ -32,4 +31,3 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US7 |As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.|High|4|
 | US8 | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.|Medium|3|
-| US9 |As a public policy manager, I would like the project results to be publicly accessible for study and use in developing future projects.|Low|1|
