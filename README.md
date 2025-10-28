@@ -37,6 +37,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Power BI
 * Microsoft Word
 * Python (Colab)
+* Microsoft Excel
 
 # Product Backlog (PT-BR)
 
