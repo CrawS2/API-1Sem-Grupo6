@@ -21,9 +21,9 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 ## 🔑 User Stories (Backlog do MVP)
 | ID | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
-| US2 |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|Média|3|
-| US3 |Como gerente de políticas públicas, gostaria que os resultados do projeto fossem acessíveis ao público, a fim de estudos e utilização do mesmo para desenvolvimento de projetos futuros.|Baixa|1|
+| US7 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
+| US8 |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|Média|3|
+| US9 |Como gerente de políticas públicas, gostaria que os resultados do projeto fossem acessíveis ao público, a fim de estudos e utilização do mesmo para desenvolvimento de projetos futuros.|Baixa|1|
 
 ---
 ## 📅 Sprint(s) Relacionadas
