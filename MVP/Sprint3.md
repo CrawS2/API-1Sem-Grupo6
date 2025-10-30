@@ -21,7 +21,8 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 ## 🔑 User Stories (Backlog do MVP)
 | ID | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US7 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
+| US6 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
+| US7 ||Média|3|
 | US8 |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|Média|3|
 
 ---
