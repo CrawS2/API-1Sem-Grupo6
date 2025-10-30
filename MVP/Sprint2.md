@@ -23,7 +23,6 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US4 |Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Colab.|Altíssima|6|
 | US5 |Como gerente de políticas públicas, quero um dashboard feito pelo Power BI, que contenha os dados de exportações e importações dos estados brasileiros e munícipios de São Paulo dos anos 2023 a 2025.|Alta|4|
-| US6 |Como analista/cliente, quero que o Dashboard contenha filtros relacionados à: Modais de transporte, estados e municípios.|Média|3|
 
 ---
 ## 📅 Sprint(s) Relacionadas
