@@ -48,23 +48,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |3|Baixa            |Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|1|1|
 |4|Altíssima        |Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Colab.|6|2|
 |5|Alta             |Como gerente de políticas públicas, quero um dashboard feito pelo Power BI, que contenha os dados de exportações e importações dos estados brasileiros e munícipios de São Paulo dos anos 2023 a 2025.|4|2|
-|6|Média            |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por modais, estados e munícipios.|3|2|
-|7|Alta             |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|4|3|
+|6|Alta             |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|4|3|
+|7|Média            |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por estados e munícipios.|3|3|
 |8|Média            |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|3|3|
-
-# Product Backlog (ENG)
-
-| Ranking | Priority  | User Story | Estimate | Sprint |
-|---------| ----------|------------|----------|--------|
-| 1       | Very High | As a manager/analyst, I want to collect export and import data from Brazilian states and municipalities in the state of São Paulo.                                        | 4        | 1      |
-| 2       | Medium    | As a manager/client, I want all Spreadsheets, Dashboards, and Reports to be publicly available and easily accessible on the GitHub platform.                              | 2        | 1      |
-| 3       | Low       | As a public policy manager/client, I want the purpose of the proposed project to be detailed, including how it impacts the country’s current situation.                   | 1        | 1      |
-| 4       | Very High | As an analyst, I want this data to be read, stored, and visualized using Python programming language together with the Pandas library, done on the Google Colab platform. | 6        | 2      |
-| 5       | High      | As a public policy manager, I want a Power BI dashboard containing export and import data from Brazilian states and São Paulo municipalities for the years 2023 to 2025.  | 4        | 2      |
-| 6       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 2      |
-| 7       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
-| 8       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
-
 
 # Registro das Sprints
 
