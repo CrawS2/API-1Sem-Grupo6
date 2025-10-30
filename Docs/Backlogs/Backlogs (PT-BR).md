@@ -8,8 +8,8 @@
 |3|Baixa            |Como gerente de políticas públicas/cliente, quero que seja detalhada a finalidade do projeto proposto e como ele impacta o país na situação atual.|1|1|
 |4|Altíssima        |Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Colab.|6|2|
 |5|Alta             |Como gerente de políticas públicas, quero um dashboard feito pelo Power BI, que contenha os dados de exportações e importações dos estados brasileiros e munícipios de São Paulo dos anos 2023 a 2025.|4|2|
-|6|Média            |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por modais, estados e munícipios.|3|2|
-|7|Alta             |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|4|3|
+|6|Alta             |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|4|3|
+|7|Média            |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por estados e munícipios.|3|3|
 |8|Média            |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|3|3|
 
 ## 📝 Backlog - 1° Sprint
@@ -24,10 +24,10 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US4 |Como analista, quero que esses dados sejam lidos, guardados e visualizados utilizando a linguagem de programação Python, juntamente com a biblioteca Pandas, feito na plataforma Goggle Colab.|Altíssima|6|
 | US5 |Como gerente de políticas públicas, quero um dashboard feito pelo Power BI, que contenha os dados de exportações e importações dos estados brasileiros e munícipios de São Paulo dos anos 2023 a 2025.|Alta|4|
-| US6 |Como analista/cliente, quero que o Dashboard contenha filtros relacionados à: Modais de transporte, estados e municípios.|Média|3|
 
 ## 📝 Backlog - 3° Sprint
 | ID | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US7 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
+| US6 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
+| US7 |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por estados e munícipios.|Média|3|
 | US8 |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|Média|3|
