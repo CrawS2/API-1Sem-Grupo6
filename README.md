@@ -58,6 +58,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |-------------------|------------|----------|-----------|
 | 01                | 02/10/2025 | Concluída |[MVP](https://github.com/CrawS2/API-1Sem-Grupo6/blob/main/MVP/Sprint1.md)|
 | 02                | 30/10/2025 | Concluída |[MVP](https://github.com/CrawS2/API-1Sem-Grupo6/blob/main/MVP/Sprint2.md)|
-| 03                | 20/11/2025 | A fazer   |[MVP](https://github.com/CrawS2/API-1Sem-Grupo6/blob/main/MVP/Sprint3.md)|
+| 03                | 27/11/2025 | Em andamento   |[MVP](https://github.com/CrawS2/API-1Sem-Grupo6/blob/main/MVP/Sprint3.md)|
 | Feira de Soluções | 04/12/2025 | A fazer   |[MVP](https://github.com/CrawS2/API-1Sem-Grupo6/blob/main/MVP/SprintFinal.md)|
 
