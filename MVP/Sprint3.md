@@ -23,7 +23,9 @@ Esse MVP consiste numa plataforma de BI que visa tornar acessível a busca de da
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US6 |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|Alta|4|
 | US7 |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por estados e munícipios.|Média|3|
-| US8 |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|Média|3|
+| US8 |Como gerente de políticas públicas/analista, solicito uma mudança no foco do dashboard, que será focado, principalmente, na análise de produtos e seus valores.|Média|3|
+| US9 |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|Média|3|
+| US10 |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por estados e munícipios.|Baixa|1|
 
 ---
 ## 📅 Sprint(s) Relacionadas
