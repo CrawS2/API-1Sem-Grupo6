@@ -35,16 +35,18 @@ The dashboard includes filters related to **transport modes**, **municipalities 
 
 ## 🔑 User Stories (Product Backlog)
 
-| Ranking | Priority  | User Story                                                                                                                                                     | Estimate | Sprint |
-| ------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ |
-| 1       | Very High | As a manager/analyst, I want to collect export and import data from Brazilian states and municipalities within the State of São Paulo.                         | 4        | 1      |
-| 2       | Medium    | As a manager/client, I want all spreadsheets, dashboards, and reports to be publicly available and easily accessible via the GitHub platform.                  | 2        | 1      |
-| 3       | Low       | As a public policy manager/client, I want the project’s purpose to be detailed, including its relevance to the country’s current economic situation.           | 1        | 1      |
-| 4       | Very High | As an analyst, I want the data to be processed, stored, and visualized using Python and the Pandas library, executed on the Google Colab platform.             | 6        | 2      |
-| 5       | High      | As a public policy manager, I want a Power BI dashboard containing export and import data for Brazilian states and São Paulo municipalities from 2023 to 2025. | 4        | 2      |
-| 6       | Medium    | As a public policy manager, I request that the dashboard include filters for transport modes, states, and municipalities.                                      | 3        | 2      |
-| 7       | Medium    | As a manager, I want the presented data to be periodically updated to ensure effective monitoring and reliability.                                             | 3        | 3      |
-| 8       | High      | As a manager, I want the entire project process to be documented through a written report in Microsoft Word, following ABNT academic formatting standards.     | 4        | 3      |
+| Ranking | Priority  | User Story | Estimate | Sprint |
+|---------| ----------|------------|----------|--------|
+| 1       | Very High | As a manager/analyst, I want to collect export and import data from Brazilian states and municipalities in the state of São Paulo.                                        | 4        | 1      |
+| 2       | Medium    | As a manager/client, I want all Spreadsheets, Dashboards, and Reports to be publicly available and easily accessible on the GitHub platform.                              | 2        | 1      |
+| 3       | Low       | As a public policy manager/client, I want the purpose of the proposed project to be detailed, including how it impacts the country’s current situation.                   | 1        | 1      |
+| 4       | Very High | As an analyst, I want this data to be read, stored, and visualized using Python programming language together with the Pandas library, done on the Google Colab platform. | 6        | 2      |
+| 5       | High      | As a public policy manager, I want a Power BI dashboard containing export and import data from Brazilian states and São Paulo municipalities for the years 2023 to 2025.  | 4        | 2      |
+| 6       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
+| 7       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 3      |
+|8        |Média            |Como gerente de políticas públicas/analista, solicito uma mudança no foco do dashboard, que será focado, principalmente, na análise de produtos e seus valores. |3|3|
+| 9       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
+|10|Baixa            |Como cliente, solicito que seja criado um vídeo que explique de forma prática o funcionamento do dashboard, aplicação de filtros e uso dos parâmetros.|1|3|
 
 ---
 
