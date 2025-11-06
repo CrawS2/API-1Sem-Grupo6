@@ -10,7 +10,8 @@
 | 5       | High      | As a public policy manager, I want a Power BI dashboard containing export and import data from Brazilian states and São Paulo municipalities for the years 2023 to 2025.  | 4        | 2      |
 | 6       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
 | 7       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 3      |
-| 8       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
+|8        |Média            |Como gerente de políticas públicas/analista, solicito uma mudança no foco do dashboard, que será focado, principalmente, na análise de produtos e seus valores. |3|3|
+| 9       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
 
 ## 📝 Backlog - 1° Sprint
 | ID | User Story                                                                 | Prioridade | Estimativa |
