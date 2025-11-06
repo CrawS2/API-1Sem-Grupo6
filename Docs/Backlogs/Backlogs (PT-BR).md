@@ -10,7 +10,9 @@
 |5|Alta             |Como gerente de políticas públicas, quero um dashboard feito pelo Power BI, que contenha os dados de exportações e importações dos estados brasileiros e munícipios de São Paulo dos anos 2023 a 2025.|4|2|
 |6|Alta             |Como gestor, gostaria de acompanhar todo o procedimento desse projeto através de um relatório escrito utilizando a ferramenta Word de acordo com as normas da ABNT.|4|3|
 |7|Média            |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por estados e munícipios.|3|3|
-|8|Média            |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|3|3|
+|8|Média            |Como gerente de políticas públicas/analista, solicito uma mudança no foco do dashboard, que será focado, principalmente, na análise de produtos e seus valores. |3|3|
+|9|Média            |Como gestor, solicito que os dados apresentados, juntamente ao Dashboard, sejam atualizados constantemente, para melhor acompanhamento dos dados solicitados.|3|3|
+|10|Baixa            |Como cliente, solicito que seja criado um vídeo que explique de forma prática o funcionamento do dashboard, aplicação de filtros e uso dos parâmetros.|1|3|
 
 ## 📝 Backlog - 1° Sprint
 | ID | User Story | Prioridade | Estimativa |
