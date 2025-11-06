@@ -12,6 +12,7 @@
 | 7       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 3      |
 |8        |Média            |Como gerente de políticas públicas/analista, solicito uma mudança no foco do dashboard, que será focado, principalmente, na análise de produtos e seus valores. |3|3|
 | 9       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
+|10|Baixa            |Como cliente, solicito que seja criado um vídeo que explique de forma prática o funcionamento do dashboard, aplicação de filtros e uso dos parâmetros.|1|3|
 
 ## 📝 Backlog - 1° Sprint
 | ID | User Story                                                                 | Prioridade | Estimativa |
