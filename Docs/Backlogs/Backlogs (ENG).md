@@ -8,8 +8,8 @@
 | 3       | Low       | As a public policy manager/client, I want the purpose of the proposed project to be detailed, including how it impacts the country’s current situation.                   | 1        | 1      |
 | 4       | Very High | As an analyst, I want this data to be read, stored, and visualized using Python programming language together with the Pandas library, done on the Google Colab platform. | 6        | 2      |
 | 5       | High      | As a public policy manager, I want a Power BI dashboard containing export and import data from Brazilian states and São Paulo municipalities for the years 2023 to 2025.  | 4        | 2      |
-| 6       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 2      |
-| 7       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
+| 6       | High      | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.                                   | 4        | 3      |
+| 7       | Medium    | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.                    | 3        | 3      |
 | 8       | Medium    | As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.                               | 3        | 3      |
 
 ## 📝 Backlog - 1° Sprint
@@ -24,10 +24,10 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US4 |As an analyst, I want this data to be read, stored, and visualized using Python programming language together with the Pandas library, done on the Google Colab platform.|Very High|6|
 | US5 |As a public policy manager, I want a Power BI dashboard containing export and import data from Brazilian states and São Paulo municipalities for the years 2023 to 2025.|High|4|
-| US6 | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.|Medium|3|
 
 ## 📝 Backlog - 3° Sprint
 | ID | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US7 |As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.|High|4|
+| US6 |As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.|High|4|
+| US7 | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.|Medium|3|
 | US8 | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.|Medium|3|
