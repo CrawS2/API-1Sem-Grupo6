@@ -32,5 +32,6 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US6 |As a manager, I request that the data presented along with the dashboard be constantly updated for better monitoring of the requested data.|High|4|
 | US7 | As a public policy manager, I request that the dashboard includes a filter to separate the information by transport modes, states, and municipalities.|Medium|3|
+| US8 |Como gerente de políticas públicas/analista, solicito uma mudança no foco do dashboard, que será focado, principalmente, na análise de produtos e seus valores.|Média|3|
 | US9 | As a manager, I would like to track the entire project process through a written report using Microsoft Word, following ABNT standards.|Medium|3|
 | US10 |Como gerente de políticas públicas, solicito que o Dashboard contenha um filtro que separe as informações fornecidas por estados e munícipios.|Baixa|1|
